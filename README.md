@@ -31,3 +31,19 @@ This project similates playing rock paper scissors with a computer.
 Key features
  - Has a win loss system
  - Uses "Random"
+
+##Project 6 : Slotmachines 44
+This project is game of slots where the user can play slots.
+Key features
+ - You can choose difficulty
+ - change bet amounts
+ - has a loop
+ - has a win/loss system
+
+##Project 7 : Creatblackjacktask
+This was my create project for the ap exam and I am pretty proud of it
+Key features
+ - You can choose a difficulty
+ - There's a win/loss system
+ - There's a loop
+ - There's a currency systen put in place.
